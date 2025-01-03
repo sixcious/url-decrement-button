@@ -1,5 +1,5 @@
 # URL Decrement Button
-<img src="https://raw.githubusercontent.com/roysix/url-decrement-button/master/assets/icon.svg?sanitize=true" width="128" height="128" alt="URL Decrement Button, Icon by Font Awesome" title="URL Decrement Button">
+<img src="https://raw.githubusercontent.com/sixcious/assets/main/repository/url-decrement-button/icon.svg?sanitize=true" width="128" height="128" alt="URL Decrement Button, Icon by Font Awesome" title="URL Decrement Button">
 
 ## Available For
 <a href="https://chromewebstore.google.com/detail/url-decrement-button/nnmjbfglinmjnieblelacmlobabcenfk" title="Chrome Web Store Download"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/chrome.svg?sanitize=true" height="64" alt="Google Chrome"></a>
